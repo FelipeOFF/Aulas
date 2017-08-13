@@ -1,0 +1,13 @@
+{
+  "name": "github-pagination-parser",
+  "version": "0.0.1",
+  "main": "./src/index.js",
+  "author": "Felipe Oliveira <felipe-not@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest-cli": "^20.0.4"
+  }
+}
